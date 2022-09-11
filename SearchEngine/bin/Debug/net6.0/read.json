@@ -1,0 +1,425 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - weather",
+        "totalResults": "3810000000",
+        "searchTerms": "weather",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "c363edcb7c6b240bd"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - weather",
+        "totalResults": "3810000000",
+        "searchTerms": "weather",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "c363edcb7c6b240bd"
+      }
+    ]
+  },
+  "context": {
+    "title": "searcher"
+  },
+  "searchInformation": {
+    "searchTime": 0.581705,
+    "formattedSearchTime": "0.58",
+    "totalResults": "3810000000",
+    "formattedTotalResults": "3,810,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "National and Local Weather Radar, Daily Forecast, Hurricane and ...",
+      "htmlTitle": "National and Local \u003cb\u003eWeather\u003c/b\u003e Radar, Daily Forecast, Hurricane and ...",
+      "link": "https://weather.com/",
+      "displayLink": "weather.com",
+      "snippet": "The Weather Channel and weather.com provide a national and local weather forecast for cities, as well as weather radar, report and hurricane coverage.",
+      "htmlSnippet": "The \u003cb\u003eWeather\u003c/b\u003e Channel and \u003cb\u003eweather\u003c/b\u003e.com provide a national and local \u003cb\u003eweather\u003c/b\u003e forecast for cities, as well as \u003cb\u003eweather\u003c/b\u003e radar, report and hurricane coverage.",
+      "cacheId": "hWo912OW-hQJ",
+      "formattedUrl": "https://weather.com/",
+      "htmlFormattedUrl": "https://\u003cb\u003eweather\u003c/b\u003e.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBGDEb7y6CRPBkxG3a7KwLE9CqhutCDp8WC8MBma6e1XEmhQ7X3AKnVUI",
+            "width": "240",
+            "height": "180"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "apple-itunes-app": "app-id=295646461",
+            "og:image": "https://s.w-x.co/240x180_twc_default.png",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "og:site_name": "The Weather Channel",
+            "og:image:url": "https://s.w-x.co/240x180_twc_default.png",
+            "og:title": "National and Local Weather Radar, Daily Forecast, Hurricane and information from The Weather Channel and weather.com",
+            "msapplication-tileimage": "/daybreak-home/assets/ms-icon-144x144.d353af.png",
+            "og:description": "The Weather Channel and weather.com provide a national and local weather forecast for cities, as well as weather radar, report and hurricane coverage",
+            "og:image:secure_url": "https://s.w-x.co/240x180_twc_default.png",
+            "referrer": "origin",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "og:locale": "en_US",
+            "og:url": "https://weather.com/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://s.w-x.co/240x180_twc_default.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Weather Underground: Local Weather Forecast, News and Conditions",
+      "htmlTitle": "\u003cb\u003eWeather\u003c/b\u003e Underground: Local \u003cb\u003eWeather\u003c/b\u003e Forecast, News and Conditions",
+      "link": "https://www.wunderground.com/",
+      "displayLink": "www.wunderground.com",
+      "snippet": "Weather Underground provides local & long-range weather forecasts, weather reports, maps & tropical weather conditions for locations worldwide.",
+      "htmlSnippet": "\u003cb\u003eWeather\u003c/b\u003e Underground provides local &amp; long-range \u003cb\u003eweather\u003c/b\u003e forecasts, \u003cb\u003eweather\u003c/b\u003e reports, maps &amp; tropical \u003cb\u003eweather\u003c/b\u003e conditions for locations worldwide.",
+      "cacheId": "PnzHo4DztwAJ",
+      "formattedUrl": "https://www.wunderground.com/",
+      "htmlFormattedUrl": "https://www.wunderground.com/",
+      "pagemap": {
+        "metatags": [
+          {
+            "theme-color": "#1976d2",
+            "viewport": "width=device-width, initial-scale=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "National Weather Service",
+      "htmlTitle": "National \u003cb\u003eWeather\u003c/b\u003e Service",
+      "link": "https://www.weather.gov/",
+      "displayLink": "www.weather.gov",
+      "snippet": "Western Heat Wave Continues; Heavy Rain in the Southeast. Blistering heat and fire weather threats continue in parts of the West and into the Plains. Earl will ...",
+      "htmlSnippet": "Western Heat Wave Continues; Heavy Rain in the Southeast. Blistering heat and fire \u003cb\u003eweather\u003c/b\u003e threats continue in parts of the West and into the Plains. Earl will&nbsp;...",
+      "cacheId": "6KLFoA6Eok8J",
+      "formattedUrl": "https://www.weather.gov/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003eweather\u003c/b\u003e.gov/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw5LAb7_jdN5bjRiGf6xTBHXqMMJLq7K0IfENObUQ8p_wHgeF4Jo2ttyW3",
+            "width": "284",
+            "height": "177"
+          }
+        ],
+        "metatags": [
+          {
+            "dc.publisher": "NOAA's National Weather Service",
+            "dc.description": "NOAA National Weather Service National Weather Service",
+            "dc.creator": "US Department of Commerce, NOAA, National Weather Service",
+            "dc.title": "National Weather Service",
+            "dc.rights": "http://www.weather.gov/disclaimer.php",
+            "rating": "General",
+            "dc.language": "EN-US",
+            "dc.keywords": "weather, National Weather Service",
+            "dc.contributor": "National Weather Service"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://forecast.weather.gov/wwamap/png/US.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Aviation Weather Center: AWC",
+      "htmlTitle": "Aviation \u003cb\u003eWeather\u003c/b\u003e Center: AWC",
+      "link": "https://www.aviationweather.gov/",
+      "displayLink": "www.aviationweather.gov",
+      "snippet": "Aviation Weather Center Homepage provides comprehensive user-friendly aviation weather Text products and graphics.",
+      "htmlSnippet": "Aviation \u003cb\u003eWeather\u003c/b\u003e Center Homepage provides comprehensive user-friendly aviation \u003cb\u003eweather\u003c/b\u003e Text products and graphics.",
+      "cacheId": "RCkudG3a8ZAJ",
+      "formattedUrl": "https://www.aviationweather.gov/",
+      "htmlFormattedUrl": "https://www.aviation\u003cb\u003eweather\u003c/b\u003e.gov/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRo_yAh6WG5JhukSF8mR9ul5HXBCOvvAOwPmKKZDJdoxEvVRnpu6jjXzwy",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "dc.description": "Aviation Weather Center Home Page ... Front Page",
+            "dc.creator": "NOAA's National Weather Service - Aviation Weather Center Homepage",
+            "dc.title": "AWC - Aviation Weather Center",
+            "dc.date.created": "2013-03-15",
+            "dc.date.reviewed": "2013-03-15",
+            "dc.language": "en-us"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.aviationweather.gov/cgi-bin/tilecache/tc.php?product=globe_light&x=3&y=10&z=4"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Weather | National Oceanic and Atmospheric Administration",
+      "htmlTitle": "\u003cb\u003eWeather\u003c/b\u003e | National Oceanic and Atmospheric Administration",
+      "link": "https://www.noaa.gov/weather",
+      "displayLink": "www.noaa.gov",
+      "snippet": "NOAA's National Weather Service is building a Weather-Ready Nation by providing better information for better decisions to save lives and livelihoods.",
+      "htmlSnippet": "NOAA&#39;s National \u003cb\u003eWeather\u003c/b\u003e Service is building a \u003cb\u003eWeather\u003c/b\u003e-Ready Nation by providing better information for better decisions to save lives and livelihoods.",
+      "cacheId": "AoZVQSRSNrMJ",
+      "formattedUrl": "https://www.noaa.gov/weather",
+      "htmlFormattedUrl": "https://www.noaa.gov/\u003cb\u003eweather\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTog6AI8oMgQ_cdEO5D1RhD4Lf9KmC_xomnIbbtIs3TM_UqJN_DoyxpwNLL",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.noaa.gov/sites/default/files/styles/landscape_width_1275/public/2021-02/weather1_0.jpg",
+            "og:type": "article",
+            "og:image:alt": "lightning in clouds",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Weather",
+            "handheldfriendly": "true",
+            "og:title": "Weather",
+            "og:description": "NOAA's National Weather Service is building a Weather-Ready Nation by providing better information for better decisions to save lives and livelihoods",
+            "og:image:secure_url": "https://www.noaa.gov/sites/default/files/styles/landscape_width_1275/public/2021-02/weather1_0.jpg",
+            "twitter:image": "https://www.noaa.gov/sites/default/files/styles/landscape_width_1275/public/2021-02/weather1_0.jpg",
+            "twitter:image:alt": "lightning in clouds",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "NOAA's National Weather Service is building a Weather-Ready Nation by providing better information for better decisions to save lives and livelihoods",
+            "mobileoptimized": "width",
+            "og:url": "https://www.noaa.gov/weather"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.noaa.gov/sites/default/files/styles/landscape_width_1275/public/2021-02/weather1_0.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "NWS Radar",
+      "htmlTitle": "NWS Radar",
+      "link": "https://radar.weather.gov/",
+      "displayLink": "radar.weather.gov",
+      "snippet": "Quick Guide. This site is organized into views that provide relevant radar products and weather information for a common task or goal.",
+      "htmlSnippet": "Quick Guide. This site is organized into views that provide relevant radar products and \u003cb\u003eweather\u003c/b\u003e information for a common task or goal.",
+      "cacheId": "R6yJHCKCHNgJ",
+      "formattedUrl": "https://radar.weather.gov/",
+      "htmlFormattedUrl": "https://radar.\u003cb\u003eweather\u003c/b\u003e.gov/",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Homepage | NOAA / NWS Space Weather Prediction Center",
+      "htmlTitle": "Homepage | NOAA / NWS Space \u003cb\u003eWeather\u003c/b\u003e Prediction Center",
+      "link": "https://www.swpc.noaa.gov/",
+      "displayLink": "www.swpc.noaa.gov",
+      "snippet": "Space Weather Summary · Solar Wind Speed: 605 km/sec · Solar Wind Magnetic Fields: Bt 6 nT, Bz 5 nT · Noon 10.7cm Radio Flux: 130 sfu ...",
+      "htmlSnippet": "Space \u003cb\u003eWeather\u003c/b\u003e Summary &middot; Solar Wind Speed: 605 km/sec &middot; Solar Wind Magnetic Fields: Bt 6 nT, Bz 5 nT &middot; Noon 10.7cm Radio Flux: 130 sfu&nbsp;...",
+      "cacheId": "B-0k8XaxHGEJ",
+      "formattedUrl": "https://www.swpc.noaa.gov/",
+      "htmlFormattedUrl": "https://www.swpc.noaa.gov/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjxgdYkNP8EpQNB80HiXrJX1wQ9UO8MpZNY7YNXX514jJcsJatQValMR4",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "Item": [
+          {
+            "title": "Homepage",
+            "encoded": "The Sun (EUV) Coronal Mass Ejections The Aurora GOES X-Ray Flux Created with Highcharts 8.0.4SWPC Warning ThresholdABCMX███ Updated 2022-09-06 01:40 UTC ███Zoom6 Hour1 Day3 Day7..."
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1, user-scalable=yes"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://services.swpc.noaa.gov/images/animations/suvi/primary/195/latest.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "WeatherBug: Local and National Weather Forecasts, Radar & News",
+      "htmlTitle": "WeatherBug: Local and National \u003cb\u003eWeather\u003c/b\u003e Forecasts, Radar &amp; News",
+      "link": "https://www.weatherbug.com/",
+      "displayLink": "www.weatherbug.com",
+      "snippet": "WeatherBug has current and extended local and national weather forecasts, news, temperature, live radar, lightning, hurricane alerts and more.",
+      "htmlSnippet": "WeatherBug has current and extended local and national \u003cb\u003eweather\u003c/b\u003e forecasts, news, temperature, live radar, lightning, hurricane alerts and more.",
+      "cacheId": "_0Ve8JvKj_0J",
+      "formattedUrl": "https://www.weatherbug.com/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003eweather\u003c/b\u003ebug.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTss34brT6Tow9Evy_lbs3R3OLeh6G1mBUM1Z7wU-1tQVJ_OcwZRfhoQ",
+            "width": "140",
+            "height": "79"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=281940292",
+            "twitter:app:url:iphone": "https://itunes.apple.com/us/app/weatherbug-radar-forecast/id281940292?mt=8",
+            "twitter:app:id:googleplay": "com.aws.android",
+            "og:image": "/images/sharing/93642f9b-cfe3-45d9-87d4-44f98a4918a1.png",
+            "theme-color": "#95B55B",
+            "twitter:card": "summary",
+            "og:site_name": "WeatherBug",
+            "twitter:url": "https://www.weatherbug.com/weather-forecast/now/",
+            "twitter:app:url:ipad": "https://itunes.apple.com/us/app/weatherbug-radar-forecast/id281940292?mt=8",
+            "shortcut icon": "favicon.ico",
+            "rating": "general",
+            "twitter:app:name:googleplay": "Weather by WeatherBug",
+            "twitter:app:id:iphone": "281940292",
+            "msapplication-tileimage": "/images/mstile-144x144.png?v=2",
+            "twitter:creator": "@WeatherBug",
+            "og:description": "WeatherBug has current and extended local and national weather forecasts, news, temperature, live radar, lightning, hurricane alerts and more",
+            "og:image:secure_url": "/images/sharing/93642f9b-cfe3-45d9-87d4-44f98a4918a1.png",
+            "twitter:image": "/images/sharing/93642f9b-cfe3-45d9-87d4-44f98a4918a1.png",
+            "twitter:site": "@WeatherBug",
+            "msapplication-tilecolor": "#FFFFFF",
+            "fb:profile_id": "WeatherBug",
+            "twitter:title": "Local and National Weather Forecasts, Radar &amp; News | WeatherBug",
+            "og:image:alt": "WeatherBug has current and extended local and national weather forecasts, news, temperature, live radar, lightning, hurricane alerts and more",
+            "og:type": "website",
+            "og:title": "Local and National Weather Forecasts, Radar &amp; News | WeatherBug",
+            "twitter:app:id:ipad": "281940292",
+            "fb:pages": "117417386738",
+            "fb:app_id": "1704148569805123",
+            "twitter:app:url:googleplay": "https://play.google.com/store/apps/details?id=com.aws.android",
+            "twitter:app:name:ipad": "WeatherBug - Radar, Forecast",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0",
+            "twitter:description": "WeatherBug has current and extended local and national weather forecasts, news, temperature, live radar, lightning, hurricane alerts and more",
+            "og:url": "https://www.weatherbug.com/weather-forecast/now/",
+            "google-play-app": "app-id=com.aws.android",
+            "twitter:app:name:iphone": "WeatherBug - Radar, Forecast"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.weatherbug.com/commoncontent/files/13/13d7314e-f044-4863-b0c1-05de62bbb1a4.jpg?Expires=1662771202&Signature=BaMSQ-8-AfGVo8LR5vtK4Ll0SUptNRchl7qSBrRwvC5kduGYcKqoz5zgi7RT2QHQnfkxS3bpSeDbrsRbfMlPJ-H9qByQ3F8iUzIVIZH9OG54c07IQS8aUZQvwZ8oxpVgEpAW5G7X3IGpe0EKkM8LXhvhcd2oF2ahxQ~dY-kdabp-oPgGA5S7qR9JOwaBJ3TgNj85or4kn62WjhdNqRCkkdjoF5v2TPRZVOUX3bn~FFQYQITcbJNlapr8nEOR~PMg6Nry0TVf7yUP6LvRqBbFWZvWpYZahtUoXeY2tS7mxFrbhFmWwthlNjfqkVfpfgQ5odMCxePjvfw4dqz~2WVOPg__&Key-Pair-Id=APKAIP6FQQ2BATJKEVCA"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "NWS Mobile Weather",
+      "htmlTitle": "NWS Mobile \u003cb\u003eWeather\u003c/b\u003e",
+      "link": "https://mobile.weather.gov/",
+      "displayLink": "mobile.weather.gov",
+      "snippet": "National Weather Service This site is experiencing technical difficulties with radar data. Go! Go! Full Site; FAQ; Site Info; Feedback.",
+      "htmlSnippet": "National \u003cb\u003eWeather\u003c/b\u003e Service This site is experiencing technical difficulties with radar data. Go! Go! Full Site; FAQ; Site Info; Feedback.",
+      "cacheId": "es0YSdR8fMUJ",
+      "formattedUrl": "https://mobile.weather.gov/",
+      "htmlFormattedUrl": "https://mobile.\u003cb\u003eweather\u003c/b\u003e.gov/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxDk7DwCPJVEtcA9xsP2jbbFeaHJ3INEMjTlbCkT1-Z4imuCyDEtiiXrw",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-mobile-web-app-status-bar-style": "black",
+            "viewport": "initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "apple-mobile-web-app-capable": "yes"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://mobile.weather.gov/images/blank.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Weather - Wikipedia",
+      "htmlTitle": "\u003cb\u003eWeather\u003c/b\u003e - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Weather",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "Weather is the state of the atmosphere, describing for example the degree to which it is hot or cold, wet or dry, calm or stormy, clear or cloudy.",
+      "htmlSnippet": "\u003cb\u003eWeather\u003c/b\u003e is the state of the atmosphere, describing for example the degree to which it is hot or cold, wet or dry, calm or stormy, clear or cloudy.",
+      "cacheId": "gvzwHH88taMJ",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Weather",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eWeather\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EpH6aIb0kFf-bkCD2IGeq7m3d9Uab1Z8Glx6gwsyVCke9W6Fnl6zFvw",
+            "width": "262",
+            "height": "193"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Thunder_lightning_Garajau_Madeira_289985700.jpg/1200px-Thunder_lightning_Garajau_Madeira_289985700.jpg",
+            "theme-color": "#eaecf0",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "Weather - Wikipedia",
+            "og:image:height": "885",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Thunder_lightning_Garajau_Madeira_289985700.jpg/1200px-Thunder_lightning_Garajau_Madeira_289985700.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
+

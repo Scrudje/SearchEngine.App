@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5sWdDzIYNHA01kgFZIdTicDbn0IMbviegXSKDc95rTMneJGb3/i1XuamLoYahBBodS1JpFVqv1IjbI8NRGicjA==",
+  "success": true,
+  "projectFilePath": "D:\\Learning Videos\\04.09.2022\\HomeWork_1\\SearchEngine.App\\SearchEngine\\SearchEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Алексей\\.nuget\\packages\\google-search-results-dotnet\\2.0.1\\google-search-results-dotnet.2.0.1.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

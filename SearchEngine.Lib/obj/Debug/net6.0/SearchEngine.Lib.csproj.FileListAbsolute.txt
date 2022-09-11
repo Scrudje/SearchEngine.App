@@ -1,0 +1,12 @@
+D:\Learning Videos\04.09.2022\HomeWork_1\SearchEngine.App\SearchEngine.Lib\bin\Debug\net6.0\SearchEngine.Lib.deps.json
+D:\Learning Videos\04.09.2022\HomeWork_1\SearchEngine.App\SearchEngine.Lib\bin\Debug\net6.0\SearchEngine.Lib.dll
+D:\Learning Videos\04.09.2022\HomeWork_1\SearchEngine.App\SearchEngine.Lib\bin\Debug\net6.0\SearchEngine.Lib.pdb
+D:\Learning Videos\04.09.2022\HomeWork_1\SearchEngine.App\SearchEngine.Lib\obj\Debug\net6.0\SearchEngine.Lib.csproj.AssemblyReference.cache
+D:\Learning Videos\04.09.2022\HomeWork_1\SearchEngine.App\SearchEngine.Lib\obj\Debug\net6.0\SearchEngine.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Videos\04.09.2022\HomeWork_1\SearchEngine.App\SearchEngine.Lib\obj\Debug\net6.0\SearchEngine.Lib.AssemblyInfoInputs.cache
+D:\Learning Videos\04.09.2022\HomeWork_1\SearchEngine.App\SearchEngine.Lib\obj\Debug\net6.0\SearchEngine.Lib.AssemblyInfo.cs
+D:\Learning Videos\04.09.2022\HomeWork_1\SearchEngine.App\SearchEngine.Lib\obj\Debug\net6.0\SearchEngine.Lib.csproj.CoreCompileInputs.cache
+D:\Learning Videos\04.09.2022\HomeWork_1\SearchEngine.App\SearchEngine.Lib\obj\Debug\net6.0\SearchEngine.Lib.dll
+D:\Learning Videos\04.09.2022\HomeWork_1\SearchEngine.App\SearchEngine.Lib\obj\Debug\net6.0\refint\SearchEngine.Lib.dll
+D:\Learning Videos\04.09.2022\HomeWork_1\SearchEngine.App\SearchEngine.Lib\obj\Debug\net6.0\SearchEngine.Lib.pdb
+D:\Learning Videos\04.09.2022\HomeWork_1\SearchEngine.App\SearchEngine.Lib\obj\Debug\net6.0\ref\SearchEngine.Lib.dll
